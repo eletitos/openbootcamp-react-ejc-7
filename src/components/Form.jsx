@@ -19,7 +19,7 @@ export const Form = ({ addNewContact }) => {
         <input 
             className="bg-stone-700 p-2 pr-5 pl-5 rounded-lg mt-2 hover:bg-stone-600 text-white  cursor-pointer"
             type="submit" 
-            value="contact"
+            value="Añadir contacto"
             onClick={onAddContact} />
     </form>
 
